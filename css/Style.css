@@ -1,0 +1,810 @@
+@charset "utf-8";
+/* CSS Document */
+
+Body {
+	background: black; 
+	font-family: 'Roboto', sans-serif;  
+	}
+
+@media screen and (min-width: 320px){
+	.bloque1 {
+		width: 40px;
+		height: 40px;
+		background: grey;
+		
+			}
+	
+	.parrafo {
+		color: black;
+		font-size: 13px;
+		text-align: center;
+	}
+	
+	div{
+		width: 100%;
+		height: 25%;
+		background: yellow;
+				}
+	.bloque1 {
+	width: 300px; 
+	height: 150px;
+	background: lightgreen;
+	margin: auto; 
+	position: relative;
+	}
+
+.cuadro1 {
+	width: 350px; 
+	height: 350px;
+	background: yellow; 
+	box-sizing: border-box;
+	padding: 50px;
+	float: left;
+	
+	}
+.titulo1 {
+	color:blue;
+	text-align: center; 
+	}
+
+.link1 {
+	color: blue;
+	margin-left: 150px;
+	}
+	
+.bloque2 {
+	width: 50px;
+	height: 50px;
+	background: lightblue;
+	position: absolute;
+	top: 170px;
+	left: 320px;
+	}
+.bloque3 {
+	width: 300px;
+	height: 300px;
+	float: right;
+	}
+
+.pulmones {
+	width: 300px;
+	height: 300px;
+	}
+
+
+.bloque4 {
+	width: 300px;
+	height: 300px;
+	background: green;
+	float: right;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	right:120px;
+	}
+.cigarrillo {
+	width: 300px;
+	height: 300px;
+	}
+
+.texto1 {
+	width: 200px;
+	height: 100px;
+	box-sizing: border-box;
+	padding: 15px;
+	background: lightblue;
+	position: absolute;
+	top: 20px;
+	left: 570px;
+	}
+
+.parrafo1 {
+	color: white;
+	font-size: 15px;
+	
+}
+
+.link2 {
+	color: blue;
+	margin-left: 120px;
+	}
+	
+.bloque5 {
+	width: 300px; 
+	height: 300px;
+	background: lightgreen; 
+	box-sizing: border-box;
+	padding: 50px;
+	float: right;
+	
+	}
+.titulo2 {
+	color:blue;
+	text-align: center; 
+	}
+.parrafo2 {
+	color: black;
+	font-size: 16px;
+	}
+	
+.link2 {
+	color: blue;
+	margin-left: 100px;
+	}
+.bloque6 {
+	width: 50px;
+	height: 50px;
+	background: lightblue;
+	position: absolute;
+	top: 550px;
+	left: 530px;
+	}
+.bloque7 {
+	width: 300px;
+	height: 300px;
+	margin-top: -320px;
+	margin-left: -600px;
+
+
+	}
+.efecto {
+	width: 300px;
+	height: 300px;
+	
+	}
+
+.dano {
+	width: 225px;
+	height: 200px;
+	margin-top: 0px;
+	margin-left: -601px;
+	}
+.bloque8{
+	width: 225px; 
+	height: 200px;
+	background: yellow; 
+	box-sizing: border-box;
+	padding: 50px;
+	float: right;
+	margin-top: 337px;
+	margin-right: 101px;
+	}
+
+.parrafo3 {
+	color: darkblue;
+	font-size: 15px;
+	}
+
+
+.bloque9 {
+	width: 225px;
+	height: 200px;
+	background: green; 
+	position: relative;
+	float: left;
+	margin-top: -200px;
+	margin-left: 449px;
+	}
+.enfermedad {
+	width: 225px;
+	height: 200px;
+	position: absolute;
+	margin-top: 740px;
+	margin-left: -450px;
+	}
+	
+.bloque10 {
+	width: 225px; 
+	height:200px;
+	background: yellow; 
+	box-sizing: border-box;
+	padding: 50px;
+	float: right;
+	margin-top: 337px;
+	margin-right: 0px;
+	}
+.bloque11 {
+	width: 225px; 
+	height: 210px;
+	background: turquoise; 
+	box-sizing: border-box;
+	padding: 50px;
+	float: left;
+	margin-top: 540px;
+	margin-right: 0px;
+}
+
+.parrafo4 {
+	color: white;
+	font-size: 16px;
+	}
+.bloque12 {
+	width: 225px;
+	height: 210px;
+	background: green; 
+	float: right;
+	margin-top: -210px;
+	margin-left: 400px;
+	margin-right: 450px;
+	}
+.piel {
+	width: 225px;
+	height: 212px;
+	position: absolute;
+	margin-top: -1px;
+	margin-left: 0px;
+	margin-right: 450px;
+	}
+	
+.bloque13 {
+	width: 225px; 
+	height: 210px;
+	background: turquoise; 
+	box-sizing: border-box;
+	padding: 50px;
+	float: left;
+	margin-top: -210px;
+	margin-right: 300px;
+	margin-left: 450px;
+}
+
+.parrafo5{
+	color: white;
+	font-size: 16px;
+	}
+	
+.bloque14 {
+	width: 225px;
+	height: 213px;
+	background: green; 
+	float: right;
+	margin-top: -213px;
+	margin-left: 600px;
+	margin-right: 0px;
+	}
+.naranja {
+	width: 225px;
+	height: 212px;
+	position: absolute;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 450px;
+	}
+
+	
+
+
+	
+	
+	
+		
+	}
+
+@media screen and (min-width: 786px){
+
+	
+	div{
+		width: 100%;
+		height: 25%;
+		background: orange;
+			}
+	.bloque1 {
+	width: 350px; 
+	height: 350px;
+	background: lightgreen;
+	margin: auto; 
+	position: relative;
+	}
+
+.cuadro1 {
+	width: 350px; 
+	height: 350px;
+	background: yellow; 
+	box-sizing: border-box;
+	padding: 50px;
+	float: left;
+	
+	}
+.titulo1 {
+	color:blue;
+	text-align: center; 
+	}
+
+.link1 {
+	color: blue;
+	margin-left: 150px;
+	}
+	
+.bloque2 {
+	width: 50px;
+	height: 50px;
+	background: lightblue;
+	position: absolute;
+	top: 170px;
+	left: 320px;
+	}
+.bloque3 {
+	width: 350px;
+	height: 150px;
+	float: right;
+	}
+
+.pulmones {
+	width: 350px;
+	height: 150px;
+	}
+
+
+.bloque4 {
+	width: 900px;
+	height: 400px;
+	background: green;
+	float: right;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	right:120px;
+	}
+.cigarrillo {
+	width: 900px;
+	height: 400px;
+	}
+
+.texto1 {
+	width: 250px;
+	height: 150px;
+	box-sizing: border-box;
+	padding: 15px;
+	background: lightblue;
+	position: absolute;
+	top: 20px;
+	left: 570px;
+	}
+
+.parrafo1 {
+	color: white;
+	font-size: 15px;
+}
+
+.link2 {
+	color: blue;
+	margin-left: 120px;
+	}
+	
+.bloque5 {
+	width: 350px; 
+	height: 335px;
+	background: lightgreen; 
+	box-sizing: border-box;
+	padding: 50px;
+	float: right;
+	
+	}
+.titulo2 {
+	color:blue;
+	text-align: center; 
+	}
+.parrafo2 {
+	color: black;
+	font-size: 16px;
+	}
+	
+.link2 {
+	color: blue;
+	margin-left: 100px;
+	}
+.bloque6 {
+	width: 50px;
+	height: 50px;
+	background: lightblue;
+	position: absolute;
+	top: 550px;
+	left: 530px;
+	}
+.bloque7 {
+	width: 560px;
+	height: 350px;
+	margin-top: -320px;
+	margin-left: -600px;
+
+
+	}
+.efecto {
+	width: 560px;
+	height: 350px;
+	
+	}
+
+.dano {
+	width: 225px;
+	height: 200px;
+	margin-top: 0px;
+	margin-left: -601px;
+	}
+.bloque8{
+	width: 225px; 
+	height: 200px;
+	background: yellow; 
+	box-sizing: border-box;
+	padding: 50px;
+	float: right;
+	margin-top: 337px;
+	margin-right: 101px;
+	}
+
+.parrafo3 {
+	color: darkblue;
+	font-size: 15px;
+	}
+
+
+.bloque9 {
+	width: 225px;
+	height: 200px;
+	background: green; 
+	position: relative;
+	float: left;
+	margin-top: -200px;
+	margin-left: 449px;
+	}
+.enfermedad {
+	width: 225px;
+	height: 200px;
+	position: absolute;
+	margin-top: 740px;
+	margin-left: -450px;
+	}
+	
+.bloque10 {
+	width: 225px; 
+	height:200px;
+	background: yellow; 
+	box-sizing: border-box;
+	padding: 50px;
+	float: right;
+	margin-top: 337px;
+	margin-right: 0px;
+	}
+.bloque11 {
+	width: 225px; 
+	height: 210px;
+	background: turquoise; 
+	box-sizing: border-box;
+	padding: 50px;
+	float: left;
+	margin-top: 540px;
+	margin-right: 0px;
+}
+
+.parrafo4 {
+	color: white;
+	font-size: 16px;
+	}
+.bloque12 {
+	width: 225px;
+	height: 210px;
+	background: green; 
+	float: right;
+	margin-top: -210px;
+	margin-left: 400px;
+	margin-right: 450px;
+	}
+.piel {
+	width: 225px;
+	height: 212px;
+	position: absolute;
+	margin-top: -1px;
+	margin-left: 0px;
+	margin-right: 450px;
+	}
+	
+.bloque13 {
+	width: 225px; 
+	height: 210px;
+	background: turquoise; 
+	box-sizing: border-box;
+	padding: 50px;
+	float: left;
+	margin-top: -210px;
+	margin-right: 300px;
+	margin-left: 450px;
+}
+
+.parrafo5{
+	color: white;
+	font-size: 16px;
+	}
+	
+.bloque14 {
+	width: 225px;
+	height: 213px;
+	background: green; 
+	float: right;
+	margin-top: -213px;
+	margin-left: 600px;
+	margin-right: 0px;
+	}
+.naranja {
+	width: 225px;
+	height: 212px;
+	position: absolute;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 450px;
+	}
+
+	
+
+
+	
+	
+	}
+
+
+@media screen and (min-width: 1024px){
+		
+	
+	div{
+		width: 100%;
+		height: 25%;
+		background: pink;
+			}
+	.bloque1 {
+	width: 900px; 
+	height: 1500px;
+	background: lightgreen;
+	margin: auto; 
+	position: relative;
+	}
+
+.cuadro1 {
+	width: 350px; 
+	height: 350px;
+	background: yellow; 
+	box-sizing: border-box;
+	padding: 50px;
+	float: left;
+	
+	}
+.titulo1 {
+	color:blue;
+	text-align: center; 
+	}
+
+.link1 {
+	color: blue;
+	margin-left: 150px;
+	}
+	
+.bloque2 {
+	width: 50px;
+	height: 50px;
+	background: lightblue;
+	position: absolute;
+	top: 170px;
+	left: 320px;
+	}
+.bloque3 {
+	width: 550px;
+	height: 350px;
+	float: right;
+	}
+
+.pulmones {
+	width: 550px;
+	height: 350px;
+	}
+
+
+.bloque4 {
+	width: 900px;
+	height: 400px;
+	background: green;
+	float: right;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	right:120px;
+	}
+.cigarrillo {
+	width: 900px;
+	height: 400px;
+	}
+
+.texto1 {
+	width: 250px;
+	height: 150px;
+	box-sizing: border-box;
+	padding: 15px;
+	background: lightblue;
+	position: absolute;
+	top: 20px;
+	left: 570px;
+	}
+
+.parrafo1 {
+	color: white;
+	font-size: 15px;
+}
+
+.link2 {
+	color: blue;
+	margin-left: 120px;
+	}
+	
+.bloque5 {
+	width: 350px; 
+	height: 335px;
+	background: lightgreen; 
+	box-sizing: border-box;
+	padding: 50px;
+	float: right;
+	
+	}
+.titulo2 {
+	color:blue;
+	text-align: center; 
+	}
+.parrafo2 {
+	color: black;
+	font-size: 16px;
+	}
+	
+.link2 {
+	color: blue;
+	margin-left: 100px;
+	}
+.bloque6 {
+	width: 50px;
+	height: 50px;
+	background: lightblue;
+	position: absolute;
+	top: 550px;
+	left: 530px;
+	}
+.bloque7 {
+	width: 560px;
+	height: 350px;
+	margin-top: -320px;
+	margin-left: -600px;
+
+
+	}
+.efecto {
+	width: 560px;
+	height: 350px;
+	
+	}
+
+.dano {
+	width: 225px;
+	height: 200px;
+	margin-top: 0px;
+	margin-left: -601px;
+	}
+.bloque8{
+	width: 225px; 
+	height: 200px;
+	background: yellow; 
+	box-sizing: border-box;
+	padding: 50px;
+	float: right;
+	margin-top: 337px;
+	margin-right: 101px;
+	}
+
+.parrafo3 {
+	color: darkblue;
+	font-size: 15px;
+	}
+
+
+.bloque9 {
+	width: 225px;
+	height: 200px;
+	background: green; 
+	position: relative;
+	float: left;
+	margin-top: -200px;
+	margin-left: 449px;
+	}
+.enfermedad {
+	width: 225px;
+	height: 200px;
+	position: absolute;
+	margin-top: 740px;
+	margin-left: -450px;
+	}
+	
+.bloque10 {
+	width: 225px; 
+	height:200px;
+	background: yellow; 
+	box-sizing: border-box;
+	padding: 50px;
+	float: right;
+	margin-top: 337px;
+	margin-right: 0px;
+	}
+.bloque11 {
+	width: 225px; 
+	height: 210px;
+	background: turquoise; 
+	box-sizing: border-box;
+	padding: 50px;
+	float: left;
+	margin-top: 540px;
+	margin-right: 0px;
+}
+
+.parrafo4 {
+	color: white;
+	font-size: 16px;
+	}
+.bloque12 {
+	width: 225px;
+	height: 210px;
+	background: green; 
+	float: right;
+	margin-top: -210px;
+	margin-left: 400px;
+	margin-right: 450px;
+	}
+.piel {
+	width: 225px;
+	height: 212px;
+	position: absolute;
+	margin-top: -1px;
+	margin-left: 0px;
+	margin-right: 450px;
+	}
+	
+.bloque13 {
+	width: 225px; 
+	height: 210px;
+	background: turquoise; 
+	box-sizing: border-box;
+	padding: 50px;
+	float: left;
+	margin-top: -210px;
+	margin-right: 300px;
+	margin-left: 450px;
+}
+
+.parrafo5{
+	color: white;
+	font-size: 16px;
+	}
+	
+.bloque14 {
+	width: 225px;
+	height: 213px;
+	background: green; 
+	float: right;
+	margin-top: -213px;
+	margin-left: 600px;
+	margin-right: 0px;
+	}
+.naranja {
+	width: 225px;
+	height: 212px;
+	position: absolute;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 450px;
+	}
+
+	
+
+
+	
+	 
+}
+
+
+header {
+	width: 900px; 
+	height: 50px;
+	background: black;
+	margin: auto;
+	}
